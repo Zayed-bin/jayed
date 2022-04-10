@@ -1,0 +1,101 @@
+h1{
+
+    color:rgba(0, 255, 64, 0.597);
+    background-color:yellow;
+    height: 80px;
+    width: 60%;
+    border: 40px solid steelblue;
+    border-radius: 60px;
+    margin: 50px;
+
+}
+
+
+h1.friend{
+    color: black;
+
+
+}
+
+p{
+
+
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+
+h3{
+
+
+  color:violet;
+
+}
+
+
+img{
+
+    width: 10%;
+
+
+}
+
+#sabit{
+
+  font-size: 80px;
+  color: bisque;
+
+}
+#akash{
+
+  color: black;
+
+}
+
+.friend{
+
+  background-color: gray;
+
+  font-size: 20px;
+
+
+
+}
+
+.neighbor{
+
+    background-color: purple;
+    font-size: 40px;
+
+}
+
+.determine{
+
+
+    color: orange;
+}
+
+.country{
+    color: hotpink;
+    background-color: lightcyan;
+    border: 40px solid slategray;
+}
+.sabit{
+     border: 10px solid sienna;
+    border-radius: 50px;
+     margin: 1%;
+    padding: 40px;
+     height: 1000px;
+    width: 24%;
+    display: inline-block;
+
+}
+
+h2{
+
+     text-align: center;
+
+}
+
